@@ -1,6 +1,6 @@
-baseURL = "https://quartz.jzhao.xyz/"
-languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+baseURL = "https://wsenh.com"
+languageCode = "en-CA"
+googleAnalytics = "UA-108865868-1"
 pygmentsUseClasses = true
 relativeURLs = false
 disablePathToLower = true
