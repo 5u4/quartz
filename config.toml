@@ -1,4 +1,4 @@
-baseURL = "https://wsenh.com"
+baseURL = "https://quartz.wsenh.com"
 languageCode = "en-CA"
 googleAnalytics = "UA-108865868-1"
 pygmentsUseClasses = true
